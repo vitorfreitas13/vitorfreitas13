@@ -22,5 +22,5 @@
 ---
 
 ## 📬 Contato
-📧 vitorfreitas@email.com  
+📧 dev.vitorfreitas13@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)
